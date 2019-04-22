@@ -1,5 +1,5 @@
 <p style="text-align: center;">
-  Space War
+  <span style= "font-size:4em;"> Space War </span>
 </p>
 <p style="text-align: center;">
   By Noah McCall
